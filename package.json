@@ -1,5 +1,5 @@
 {
-  "homepage": "http://hntejas.github.io/todolist",
+  "homepage": "https://hntejas.github.io/todolist",
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
@@ -37,6 +37,7 @@
   "devDependencies": {
     "css-loader": "^3.2.1",
     "gh-pages": "^2.1.1",
+    "react-router-dom": "^5.1.2",
     "style-loader": "^1.0.1"
   }
 }
