@@ -1,0 +1,27 @@
+.miniCard{
+    width: 270px;
+    height: 150px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 15px;
+    padding: 20px;
+}
+
+.cardTitle{
+    color: #656565;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.3em;
+    margin: 0;
+}
+
+.cardDescription {
+    height: 50%;
+    padding: 8px;
+    color: #656565;
+    overflow: hidden;
+    font-size: 1.1em;
+    text-overflow: ellipsis;
+}
+
